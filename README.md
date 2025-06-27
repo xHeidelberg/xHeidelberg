@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **robynkrist@duck.com**
 
-- ⚡ Fun fact **I'm not a Mr. Meeseeks**
+- ⚡ Fun fact **I'm not Mr. Meeseeks**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
