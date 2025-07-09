@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Kris</h1>
-<h3 align="center">NEW DEVELOPER FROM PHILIPPINES 🇵🇭🇵🇭</h3>
 <p alight="center"> I am currently a student of Information Technology at Mindoro State University. This GitHub profile serves as a repository for my study materials and school code projects. </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xheidelberg&label=Profile%20views&color=0e75b6&style=flat" alt="xheidelberg" /> </p>
