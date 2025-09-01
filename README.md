@@ -18,4 +18,3 @@ I'm currently a student pursuing a Bachelor of Science in Information Technology
 ---
 [![](https://visitcount.itsvg.in/api?id=xHeidelberg&icon=0&color=9)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->****
