@@ -3,7 +3,7 @@
 # 💫 About Me:
 I'm currently a student pursuing a Bachelor of Science in Information Technology at Mindoro State University. I'm passionate about learning and excited to see where this journey takes me.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xheidelberg" alt="xheidelberg" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xHeidelberg" alt="xheidelberg" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
