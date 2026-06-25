@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kris</h1>
 <h2 align="center">💫 About Me:</h2>
-I'm currently a student pursuing a Bachelor of Science in Information Technology at Mindoro State University. I'm passionate about learning and excited to see where this journey takes me.
+I'm currently a student pursuing a Bachelor of Science in Information Technology at Mindoro State University.
 
 
 ## 🌐 Socials:
@@ -8,6 +8,7 @@ I'm currently a student pursuing a Bachelor of Science in Information Technology
 
 # 💻 Tech Stack:
 In Progess....
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=xHeidelberg&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=xHeidelberg&theme=default&hide_border=false)<br/>
